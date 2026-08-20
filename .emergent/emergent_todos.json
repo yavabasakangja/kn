@@ -1,0 +1,46 @@
+[
+  {
+    "content": "Pemulihan lingkungan + ukur ulang titik henti (POC U 63/63 · gate --full HIJAU · readiness U SELESAI)",
+    "status": "completed"
+  },
+  {
+    "content": "FASE U: uji UI U-US1..U-US4 lewat agen uji + reproduksi sendiri di peramban",
+    "status": "completed"
+  },
+  {
+    "content": "FASE U: perbaiki 2 bug nyata (Esc menutup seluruh pop-up → INV-UI-10 · galat form di belakang modal)",
+    "status": "completed"
+  },
+  {
+    "content": "FASE U tutup: plan.md §STATUS U (SESSION_HANDOFF ditulis di akhir sesi)",
+    "status": "completed"
+  },
+  {
+    "content": "P-0: sambung PO→PR→SO dua arah (dokumen BARU saja) + doc_refs DOC_TYPES + INV-REF-01 hijau",
+    "status": "in_progress"
+  },
+  {
+    "content": "FASE D backend: koleksi design_requests + peran baru designer (ke-7) + izin + nomor <ENT>/DSR + antrean keputusan",
+    "status": "pending"
+  },
+  {
+    "content": "FASE D backend: endpoint (submit/assign/deliver/approve/reject) + rapor by-designer + design_gallery.request_id & kode DSG (D4)",
+    "status": "pending"
+  },
+  {
+    "content": "FASE D frontend: DesignRequestsView (kanban) + detail modal + Rapor Desainer + tombol Tugaskan + nav",
+    "status": "pending"
+  },
+  {
+    "content": "FASE D: POC test_core_design_request_poc.py (self-cleanup, bukti-merah)",
+    "status": "pending"
+  },
+  {
+    "content": "FASE D+P0: gate.sh --full HIJAU + agen uji user story D1..D4",
+    "status": "pending"
+  },
+  {
+    "content": "Penutupan: plan.md §STATUS D + SESSION_HANDOFF.md + ENTITY_REGISTRY.md",
+    "status": "pending"
+  }
+]
